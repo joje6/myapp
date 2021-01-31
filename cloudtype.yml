@@ -1,6 +1,0 @@
-version: 1
-name: nodejs
-repository:
-  type: git
-  url: git@github.com:cloudtype/example-nodejs.git.git
-  refspec: master
